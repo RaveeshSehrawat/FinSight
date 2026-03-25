@@ -330,7 +330,7 @@ with strategy_col:
     strategy = st.selectbox(
         "Strategy",
         options=["dense", "sparse","hybrid"],
-        index=1,
+        index=0,
         help="hybrid: BM25 + semantic + re-ranker (best) | dense: semantic only | sparse: keyword only"
     )
     st.markdown("")

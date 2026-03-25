@@ -4,7 +4,7 @@
 
 ## 🚀 Try it now
 
-[**Live Demo on Streamlit Cloud**](https://finsight-9zymumegjcv3xybfrkqpsc.streamlit.app/)
+[**Live Demo on Streamlit Cloud**](https://finsight-zxvjcdn8wtk5xk8aqkckmk.streamlit.app/)
 
 ---
 
