@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What was CPB's net profit margin in 2024?",
+    "ground_truth": "CPB (Campbell's) had a net profit margin of 5.88% in fiscal year 2024.",
+    "source_doc": "CPB_2024"
+  },
+  {
+    "question": "What was CPB's net income growth in 2024?",
+    "ground_truth": "CPB's net income declined by 33.92% year-over-year in 2024.",
+    "source_doc": "CPB_2024"
+  },
+  {
+    "question": "What was the executive sentiment for CPB in 2024?",
+    "ground_truth": "CPB's executive sentiment in 2024 was Positive with a FinBERT score of +0.388.",
+    "source_doc": "CPB_2024"
+  },
+  {
+    "question": "What was CVX's net profit margin in 2023?",
+    "ground_truth": "CVX (Chevron) reported a net profit margin of 10.63% in fiscal year 2023.",
+    "source_doc": "CVX_2023"
+  },
+  {
+    "question": "How did CVX's revenue change in 2023?",
+    "ground_truth": "CVX's revenue declined by 18.40% year-over-year in 2023.",
+    "source_doc": "CVX_2023"
+  },
+  {
+    "question": "What was CVX's return on assets in 2023?",
+    "ground_truth": "CVX had a return on assets of 8.17% in fiscal year 2023.",
+    "source_doc": "CVX_2023"
+  },
+  {
+    "question": "What was DLTR's net margin in 2024?",
+    "ground_truth": "DLTR (Dollar Tree) had a negative net profit margin of -5.95% in 2024, indicating a net loss.",
+    "source_doc": "DLTR_2024"
+  },
+  {
+    "question": "How did DLTR's net income change in 2024?",
+    "ground_truth": "DLTR's net income declined by 161.81% in 2024, reflecting a significant net loss.",
+    "source_doc": "DLTR_2024"
+  },
+  {
+    "question": "What was BRO's revenue growth in 2025?",
+    "ground_truth": "BRO (Brown & Brown) reported strong revenue growth of 22.83% year-over-year in 2025.",
+    "source_doc": "BRO_2025"
+  },
+  {
+    "question": "What was BRO's net profit margin in 2025?",
+    "ground_truth": "BRO had a net profit margin of 17.86% in fiscal year 2025.",
+    "source_doc": "BRO_2025"
+  },
+  {
+    "question": "What was the executive sentiment for BRO in 2025?",
+    "ground_truth": "BRO's executive sentiment in 2025 was Positive with a FinBERT score of +0.236.",
+    "source_doc": "BRO_2025"
+  },
+  {
+    "question": "Which company had the highest FinBERT sentiment score in the dataset?",
+    "ground_truth": "CCL (Carnival Corporation) had the highest FinBERT sentiment score of +0.832 in 2025, indicating very positive executive tone.",
+    "source_doc": "CCL_2025"
+  },
+  {
+    "question": "Which company had the most negative executive sentiment?",
+    "ground_truth": "MU (Micron Technology) had the most negative FinBERT sentiment score of -0.554 in 2024, indicating a strongly negative executive tone focused on risks and losses.",
+    "source_doc": "MU_2024"
+  },
+  {
+    "question": "Which companies have a going concern warning in the dataset?",
+    "ground_truth": "Companies with going concern warnings include ARE (Alexandria Real Estate Equities) and APO (Apollo Global Management) across multiple years. Going concern indicates auditor doubt about the company's ability to continue operations.",
+    "source_doc": "ARE_2024"
+  },
+  {
+    "question": "What was FE's net income growth in 2023?",
+    "ground_truth": "FE (FirstEnergy) reported extraordinary net income growth of 171.43% in 2023.",
+    "source_doc": "FE_2023"
+  },
+  {
+    "question": "What was ETR's revenue growth in 2023?",
+    "ground_truth": "ETR (Entergy) reported a revenue decline of 11.75% year-over-year in 2023.",
+    "source_doc": "ETR_2023"
+  },
+  {
+    "question": "What was ETR's net income growth in 2023?",
+    "ground_truth": "Despite falling revenue, ETR's net income grew by 113.62% in 2023.",
+    "source_doc": "ETR_2023"
+  },
+  {
+    "question": "How complex was LNT's executive writing in 2024?",
+    "ground_truth": "LNT (Alliant Energy) had a Flesch-Kincaid grade level of 18.8 in 2024, indicating Very Complex post-graduate level writing in their MD&A section.",
+    "source_doc": "LNT_2024"
+  },
+  {
+    "question": "What was BX's net profit margin in 2025?",
+    "ground_truth": "BX (Blackstone) reported a net profit margin of 20.89% in fiscal year 2025.",
+    "source_doc": "BX_2025"
+  },
+  {
+    "question": "What was BX's revenue growth in 2025?",
+    "ground_truth": "BX (Blackstone) reported revenue growth of 9.22% year-over-year in 2025.",
+    "source_doc": "BX_2025"
+  },
+  {
+    "question": "What was TKO's net income growth in 2025?",
+    "ground_truth": "TKO reported extraordinary net income growth of 1976.99% in 2025.",
+    "source_doc": "TKO_2025"
+  },
+  {
+    "question": "What was MSFT's return on assets in 2023?",
+    "ground_truth": "MSFT (Microsoft) reported a return on assets of 17.56% in fiscal year 2023.",
+    "source_doc": "MSFT_2023"
+  },
+  {
+    "question": "What was MSFT's ROA in 2024?",
+    "ground_truth": "MSFT reported a return on assets of 17.21% in fiscal year 2024.",
+    "source_doc": "MSFT_2024"
+  },
+  {
+    "question": "What was LNT's return on assets in 2024?",
+    "ground_truth": "LNT (Alliant Energy) had a return on assets of 3.04% in fiscal year 2024.",
+    "source_doc": "LNT_2024"
+  },
+  {
+    "question": "What was LNT's net profit margin in 2024?",
+    "ground_truth": "LNT reported a net profit margin of 17.33% in fiscal year 2024.",
+    "source_doc": "LNT_2024"
+  }
+]
